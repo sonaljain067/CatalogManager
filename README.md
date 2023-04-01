@@ -15,7 +15,7 @@ This is set of RESTful APIs with Django Rest Framework(DRF) for managing product
 to create virtual environment named env
 
 3. Activate the virtual environment  <br/>
-In Ubuntu: `source env/Scripts/activate`  <br/>
+In Ubuntu: `source env/bin/activate`  <br/>
 In Windows: `.\env\Scripts\activate`
 
 4. Install dependencies  <br/>
