@@ -51,3 +51,6 @@ In Windows: `.\env\Scripts\activate`
 To test the test suite, run the command:  <br/>
 `python manage.py test` or `python3 manage.py test` <br/>
 This will run all the tests in tests.py file
+
+## API Documentation
+The Catalog Manager API is documented using Postman. You can import the [Postman Collection](https://www.postman.com/restless-escape-344804/workspace/api-documentation/collection/17433654-4efb991e-bc8b-428b-a102-f0bd0130595d?action=share&creator=17433654) to get started.
